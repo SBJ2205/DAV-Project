@@ -1,0 +1,95 @@
+feature,coefficient,abs_coefficient,direction
+Persistent EPS in the Last Four Seasons,-2.307696933028689,2.307696933028689,Decreases Risk
+Equity to Liability,-1.8491584733635336,1.8491584733635336,Decreases Risk
+Liability to Equity,-1.7801113183821158,1.7801113183821158,Decreases Risk
+Current Ratio,-1.7562765687048163,1.7562765687048163,Decreases Risk
+Borrowing dependency,1.647782738582272,1.647782738582272,Increases Risk
+Accounts Receivable Turnover,-1.300924354953925,1.300924354953925,Decreases Risk
+Net Income to Total Assets,-1.2956681846599831,1.2956681846599831,Decreases Risk
+Net Value Per Share (B),-1.1114022705072255,1.1114022705072255,Decreases Risk
+Total debt/Total net worth,1.0568373888897533,1.0568373888897533,Increases Risk
+ROA(A) before interest and % after tax,0.9054021726122538,0.9054021726122538,Increases Risk
+Operating profit/Paid-in capital,0.8706547722777537,0.8706547722777537,Increases Risk
+Cash Flow to Liability,-0.8623541742409535,0.8623541742409535,Decreases Risk
+Inventory and accounts receivable/Net value,-0.8036386510892701,0.8036386510892701,Decreases Risk
+Net worth/Assets,-0.8014091850006267,0.8014091850006267,Decreases Risk
+Debt ratio %,0.8014091850005466,0.8014091850005466,Increases Risk
+Cash/Total Assets,-0.6784907785121287,0.6784907785121287,Decreases Risk
+Net Value Per Share (C),0.5966446322742283,0.5966446322742283,Increases Risk
+Working capitcal Turnover Rate,0.5883176195305622,0.5883176195305622,Increases Risk
+Operating Profit Per Share (Yuan ¥),0.5564515499634678,0.5564515499634678,Increases Risk
+Net Worth Turnover Rate (times),-0.5138665976553594,0.5138665976553594,Decreases Risk
+ROA(C) before interest and depreciation before interest,-0.48808225009074957,0.48808225009074957,Decreases Risk
+Average Collection Days,-0.4861298112748393,0.4861298112748393,Decreases Risk
+Current Liability to Assets,-0.45274102883004247,0.45274102883004247,Decreases Risk
+Operating Profit Rate,0.42582149760964927,0.42582149760964927,Increases Risk
+Operating Funds to Liability,-0.41336650243945433,0.41336650243945433,Decreases Risk
+Working Capital to Total Assets,0.41130330236312557,0.41130330236312557,Increases Risk
+Regular Net Profit Growth Rate,0.40959336202214164,0.40959336202214164,Increases Risk
+Current Liabilities/Equity,0.4018260207095313,0.4018260207095313,Increases Risk
+Current Liability to Equity,0.4018260207095313,0.4018260207095313,Increases Risk
+Pre-tax net Interest Rate,0.3979931848347878,0.3979931848347878,Increases Risk
+Cash Turnover Rate,-0.3978917999572765,0.3978917999572765,Decreases Risk
+Net profit before tax/Paid-in capital,0.39539636861814875,0.39539636861814875,Increases Risk
+Cash Flow to Total Assets,0.3927206726724671,0.3927206726724671,Increases Risk
+Cash flow rate,-0.3858869782240489,0.3858869782240489,Decreases Risk
+Cash Flow to Equity,-0.35635055209208577,0.35635055209208577,Decreases Risk
+Non-industry income and expenditure/revenue,-0.3533522913855008,0.3533522913855008,Decreases Risk
+Cash Flow to Sales,0.30447163699978624,0.30447163699978624,Increases Risk
+Continuous interest rate (after tax),-0.26576762568308004,0.26576762568308004,Decreases Risk
+Current Liability to Current Assets,-0.24195906344289522,0.24195906344289522,Decreases Risk
+Current Liability to Liability,0.23957068488792332,0.23957068488792332,Increases Risk
+Current Liabilities/Liability,0.2395706848879156,0.2395706848879156,Increases Risk
+Operating Profit Growth Rate,-0.2222735674806462,0.2222735674806462,Decreases Risk
+Quick Asset Turnover Rate,-0.21851943696342183,0.21851943696342183,Decreases Risk
+Net Income to Stockholder's Equity,0.21612404301221347,0.21612404301221347,Increases Risk
+Allocation rate per person,-0.21257672729488197,0.21257672729488197,Decreases Risk
+After-tax Net Profit Growth Rate,-0.2098265610051246,0.2098265610051246,Decreases Risk
+Cash Flow Per Share,0.203902545476785,0.203902545476785,Increases Risk
+CFO to Assets,0.2027129682666266,0.2027129682666266,Increases Risk
+Inventory/Working Capital,-0.19254807778464872,0.19254807778464872,Decreases Risk
+Fixed Assets Turnover Frequency,0.17641146470704588,0.17641146470704588,Increases Risk
+Inventory Turnover Rate (times),-0.15754587131751124,0.15754587131751124,Decreases Risk
+Long-term fund suitability ratio (A),0.1565268595707649,0.1565268595707649,Increases Risk
+After-tax net Interest Rate,0.15054371612319475,0.15054371612319475,Increases Risk
+Inventory/Current Liability,0.15041002348529053,0.15041002348529053,Increases Risk
+Total Asset Growth Rate,-0.13348719209660748,0.13348719209660748,Decreases Risk
+Quick Assets/Current Liability,-0.13070682049980598,0.13070682049980598,Decreases Risk
+ROA(B) before interest and depreciation after tax,-0.12988447742260956,0.12988447742260956,Decreases Risk
+Retained Earnings to Total Assets,0.12661990304808962,0.12661990304808962,Increases Risk
+Liability-Assets Flag,0.11931488060454042,0.11931488060454042,Increases Risk
+Continuous Net Profit Growth Rate,0.1174007792407633,0.1174007792407633,Increases Risk
+Degree of Financial Leverage (DFL),0.1133041309412683,0.1133041309412683,Increases Risk
+Interest-bearing debt interest rate,0.11296239676719766,0.11296239676719766,Increases Risk
+Current Asset Turnover Rate,0.11266237750698409,0.11266237750698409,Increases Risk
+Realized Sales Gross Profit Growth Rate,0.10842483773769569,0.10842483773769569,Increases Risk
+Total Asset Return Growth Rate Ratio,0.10803824560363531,0.10803824560363531,Increases Risk
+Cash Reinvestment %,0.08234530936014377,0.08234530936014377,Increases Risk
+Total assets to GNP price,-0.07754384748611988,0.07754384748611988,Decreases Risk
+Quick Ratio,-0.0744945831466992,0.0744945831466992,Decreases Risk
+Fixed Assets to Assets,0.07046009443602409,0.07046009443602409,Increases Risk
+Current Assets/Total Assets,0.06691593807222032,0.06691593807222032,Increases Risk
+Research and development expense rate,0.06663115868343573,0.06663115868343573,Increases Risk
+Total income/Total expense,-0.06642109640699595,0.06642109640699595,Decreases Risk
+Contingent liabilities/Net worth,-0.06550521700200451,0.06550521700200451,Decreases Risk
+Revenue per person,-0.06504001505577268,0.06504001505577268,Decreases Risk
+Gross Profit to Sales,-0.06356756152017265,0.06356756152017265,Decreases Risk
+Operating Gross Margin,-0.0634796632765864,0.0634796632765864,Decreases Risk
+Total expense/Assets,-0.06331687638684447,0.06331687638684447,Decreases Risk
+Equity to Long-term Liability,0.06188908398377289,0.06188908398377289,Increases Risk
+Working Capital/Equity,0.05565475190505817,0.05565475190505817,Increases Risk
+Net Value Per Share (A),-0.05428608367743816,0.05428608367743816,Decreases Risk
+Realized Sales Gross Margin,0.04721427372982001,0.04721427372982001,Increases Risk
+Total Asset Turnover,0.04045185086564978,0.04045185086564978,Increases Risk
+Operating Expense Rate,-0.039889998052839784,0.039889998052839784,Decreases Risk
+Quick Assets/Total Assets,-0.031094562740334692,0.031094562740334692,Decreases Risk
+Operating profit per person,-0.028033073093625925,0.028033073093625925,Decreases Risk
+Tax rate (A),-0.023354292896426824,0.023354292896426824,Decreases Risk
+Long-term Liability to Current Assets,-0.022213958756166705,0.022213958756166705,Decreases Risk
+Interest Expense Ratio,0.021164669040467748,0.021164669040467748,Increases Risk
+Revenue Per Share (Yuan ¥),-0.0199153684435678,0.0199153684435678,Decreases Risk
+Cash/Current Liability,0.01935569955462162,0.01935569955462162,Increases Risk
+No-credit Interval,-0.01395270647258594,0.01395270647258594,Decreases Risk
+Net Value Growth Rate,-0.010246702084801914,0.010246702084801914,Decreases Risk
+Per Share Net profit before tax (Yuan ¥),0.00874882870880906,0.00874882870880906,Increases Risk
+Interest Coverage Ratio (Interest expense to EBIT),0.0039510948263112924,0.0039510948263112924,Increases Risk

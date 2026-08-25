@@ -1,0 +1,96 @@
+feature,status,reason
+ROA(C) before interest and depreciation before interest,retained,informative financial feature
+ROA(A) before interest and % after tax,retained,informative financial feature
+ROA(B) before interest and depreciation after tax,retained,informative financial feature
+Operating Gross Margin,retained,informative financial feature
+Realized Sales Gross Margin,retained,informative financial feature
+Operating Profit Rate,retained,informative financial feature
+Pre-tax net Interest Rate,retained,informative financial feature
+After-tax net Interest Rate,retained,informative financial feature
+Non-industry income and expenditure/revenue,retained,informative financial feature
+Continuous interest rate (after tax),retained,informative financial feature
+Operating Expense Rate,retained,informative financial feature
+Research and development expense rate,retained,informative financial feature
+Cash flow rate,retained,informative financial feature
+Interest-bearing debt interest rate,retained,informative financial feature
+Tax rate (A),retained,informative financial feature
+Net Value Per Share (B),retained,informative financial feature
+Net Value Per Share (A),retained,informative financial feature
+Net Value Per Share (C),retained,informative financial feature
+Persistent EPS in the Last Four Seasons,retained,informative financial feature
+Cash Flow Per Share,retained,informative financial feature
+Revenue Per Share (Yuan ¥),retained,informative financial feature
+Operating Profit Per Share (Yuan ¥),retained,informative financial feature
+Per Share Net profit before tax (Yuan ¥),retained,informative financial feature
+Realized Sales Gross Profit Growth Rate,retained,informative financial feature
+Operating Profit Growth Rate,retained,informative financial feature
+After-tax Net Profit Growth Rate,retained,informative financial feature
+Regular Net Profit Growth Rate,retained,informative financial feature
+Continuous Net Profit Growth Rate,retained,informative financial feature
+Total Asset Growth Rate,retained,informative financial feature
+Net Value Growth Rate,retained,informative financial feature
+Total Asset Return Growth Rate Ratio,retained,informative financial feature
+Cash Reinvestment %,retained,informative financial feature
+Current Ratio,retained,informative financial feature
+Quick Ratio,retained,informative financial feature
+Interest Expense Ratio,retained,informative financial feature
+Total debt/Total net worth,retained,informative financial feature
+Debt ratio %,retained,informative financial feature
+Net worth/Assets,retained,informative financial feature
+Long-term fund suitability ratio (A),retained,informative financial feature
+Borrowing dependency,retained,informative financial feature
+Contingent liabilities/Net worth,retained,informative financial feature
+Operating profit/Paid-in capital,retained,informative financial feature
+Net profit before tax/Paid-in capital,retained,informative financial feature
+Inventory and accounts receivable/Net value,retained,informative financial feature
+Total Asset Turnover,retained,informative financial feature
+Accounts Receivable Turnover,retained,informative financial feature
+Average Collection Days,retained,informative financial feature
+Inventory Turnover Rate (times),retained,informative financial feature
+Fixed Assets Turnover Frequency,retained,informative financial feature
+Net Worth Turnover Rate (times),retained,informative financial feature
+Revenue per person,retained,informative financial feature
+Operating profit per person,retained,informative financial feature
+Allocation rate per person,retained,informative financial feature
+Working Capital to Total Assets,retained,informative financial feature
+Quick Assets/Total Assets,retained,informative financial feature
+Current Assets/Total Assets,retained,informative financial feature
+Cash/Total Assets,retained,informative financial feature
+Quick Assets/Current Liability,retained,informative financial feature
+Cash/Current Liability,retained,informative financial feature
+Current Liability to Assets,retained,informative financial feature
+Operating Funds to Liability,retained,informative financial feature
+Inventory/Working Capital,retained,informative financial feature
+Inventory/Current Liability,retained,informative financial feature
+Current Liabilities/Liability,retained,informative financial feature
+Working Capital/Equity,retained,informative financial feature
+Current Liabilities/Equity,retained,informative financial feature
+Long-term Liability to Current Assets,retained,informative financial feature
+Retained Earnings to Total Assets,retained,informative financial feature
+Total income/Total expense,retained,informative financial feature
+Total expense/Assets,retained,informative financial feature
+Current Asset Turnover Rate,retained,informative financial feature
+Quick Asset Turnover Rate,retained,informative financial feature
+Working capitcal Turnover Rate,retained,informative financial feature
+Cash Turnover Rate,retained,informative financial feature
+Cash Flow to Sales,retained,informative financial feature
+Fixed Assets to Assets,retained,informative financial feature
+Current Liability to Liability,retained,informative financial feature
+Current Liability to Equity,retained,informative financial feature
+Equity to Long-term Liability,retained,informative financial feature
+Cash Flow to Total Assets,retained,informative financial feature
+Cash Flow to Liability,retained,informative financial feature
+CFO to Assets,retained,informative financial feature
+Cash Flow to Equity,retained,informative financial feature
+Current Liability to Current Assets,retained,informative financial feature
+Liability-Assets Flag,retained,informative financial feature
+Net Income to Total Assets,retained,informative financial feature
+Total assets to GNP price,retained,informative financial feature
+No-credit Interval,retained,informative financial feature
+Gross Profit to Sales,retained,informative financial feature
+Net Income to Stockholder's Equity,retained,informative financial feature
+Liability to Equity,retained,informative financial feature
+Degree of Financial Leverage (DFL),retained,informative financial feature
+Interest Coverage Ratio (Interest expense to EBIT),retained,informative financial feature
+Net Income Flag,removed,constant / zero variance
+Equity to Liability,retained,informative financial feature
