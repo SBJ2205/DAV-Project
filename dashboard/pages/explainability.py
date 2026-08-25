@@ -112,6 +112,6 @@ def render_explainability_page(data_bundle: dict):
         b_path = FIG_SHAP_DIR / "shap_beeswarm.png"
         bar_path = FIG_SHAP_DIR / "shap_summary_bar.png"
         if b_path.exists():
-            st.image(str(b_path), caption="SHAP Beeswarm Plot (Feature Value Impact Distribution)", use_column_width=True)
+            st.image(str(b_path), caption="SHAP Beeswarm Plot (Feature Value Impact Distribution)", use_container_width=True)
         if bar_path.exists():
-            st.image(str(bar_path), caption="SHAP Global Mean Absolute Importance Bar Chart", use_column_width=True)
+            st.image(str(bar_path), caption="SHAP Global Mean Absolute Importance Bar Chart", use_container_width=True)

@@ -66,7 +66,7 @@ def render_overview_page(data_bundle: dict):
     # 3. Model Benchmark Comparison
     st.subheader("🏆 Model Benchmark & Performance Comparison")
     st.markdown(
-        """
+        r"""
         Models were trained strictly on training data using Stratified 5-Fold Cross-Validation 
         and evaluated on the unseen held-out test set ($20\%$). Because the dataset is severely imbalanced 
         ($3.23\%$ bankrupt), **PR-AUC and Recall** are the primary evaluation criteria.
